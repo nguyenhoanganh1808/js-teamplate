@@ -1,1 +1,2 @@
-console.log("hi");
+const x = 'wlwfk';
+console.log(x);
